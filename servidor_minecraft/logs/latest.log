@@ -45,3 +45,14 @@
 [20:19:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [20:19:05] [Server thread/INFO]: didifficulty<--[HERE]
 [20:19:15] [Server thread/INFO]: The difficulty has been set to Normal
+[20:28:44] [Server thread/INFO]: Stopping the server
+[20:28:44] [Server thread/INFO]: Stopping server
+[20:28:44] [Server thread/INFO]: Saving players
+[20:28:44] [Server thread/INFO]: Saving worlds
+[20:28:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:28:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:28:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
