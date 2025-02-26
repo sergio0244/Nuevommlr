@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-02-26 01:38:36 +0000"
@@ -500,6 +506,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-26 01:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-26 02:26:45 +0000"
     },
     "done": true
   },
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-26 01:43:12 +0000"
@@ -650,6 +668,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-26 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-26 02:31:01 +0000"
     },
     "done": true
   },
@@ -701,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-26 02:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-26 01:37:13 +0000"
@@ -746,6 +776,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-26 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
     },
     "done": true
   },
@@ -849,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-26 01:49:09 +0000"
@@ -864,6 +906,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-26 01:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
     },
     "done": true
   },
@@ -925,6 +973,7 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-02-26 01:37:51 +0000",
       "minecraft:dark_forest": "2025-02-26 01:34:39 +0000",
+      "minecraft:forest": "2025-02-26 02:27:34 +0000",
       "minecraft:windswept_forest": "2025-02-26 01:42:19 +0000",
       "minecraft:river": "2025-02-26 01:41:30 +0000",
       "minecraft:swamp": "2025-02-26 02:11:42 +0000",
@@ -998,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-26 01:46:03 +0000"
@@ -1022,6 +1077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-26 02:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-26 01:45:22 +0000"
@@ -1032,6 +1093,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-26 01:43:48 +0000",
       "cooked_chicken": "2025-02-26 02:11:38 +0000",
+      "cooked_mutton": "2025-02-26 02:30:08 +0000",
       "glow_berries": "2025-02-26 01:50:35 +0000",
       "tropical_fish": "2025-02-26 02:13:46 +0000"
     },
@@ -1160,6 +1222,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-26 01:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-26 02:26:41 +0000"
     },
     "done": true
   },
