@@ -297,6 +297,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-27 21:11:35 +0000",
+      "sweet_berries": "2025-02-27 21:50:51 +0000",
+      "baked_potato": "2025-02-27 21:38:19 +0000",
       "glow_berries": "2025-02-27 21:29:47 +0000"
     },
     "done": false
@@ -316,6 +318,24 @@
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2025-02-27 21:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-27 21:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-27 21:37:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 21:44:34 +0000"
     },
     "done": true
   },

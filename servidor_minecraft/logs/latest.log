@@ -4217,3 +4217,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 21:28:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 joined the game
 [27Feb2025 21:28:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ashes 'n Bones]
 [27Feb2025 21:34:25.115] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23241, l='ServerLevel[world]', x=219.50, y=77.00, z=-302.50]
+[27Feb2025 21:36:26.113] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23568, l='ServerLevel[world]', x=207.50, y=84.00, z=-279.50]
+[27Feb2025 21:37:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [A Seedy Place]
+[27Feb2025 21:42:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Local Brewery]
+[27Feb2025 21:44:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Fortuitous Militia]
+[27Feb2025 21:46:15.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26340, l='ServerLevel[world]', x=142.85, y=31.02, z=-123.33] died, message: 'Villager drowned'
+[27Feb2025 21:47:30.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26551, l='ServerLevel[world]', x=142.85, y=31.02, z=-123.33] died, message: 'Villager drowned'
+[27Feb2025 21:47:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Not Today, Thank You]
+[27Feb2025 21:47:46.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Timed out
+[27Feb2025 21:47:46.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 21:48:25.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:58578] logged in with entity id 26767 at (4.119340872800319, 22.0, 95.73501441182975)
+[27Feb2025 21:48:25.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[27Feb2025 21:51:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Magic Writing]
