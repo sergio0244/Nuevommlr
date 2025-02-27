@@ -40,3 +40,4 @@
 [00:52:00] [Server thread/INFO]: [Lukitas024: Set own game mode to Creative Mode]
 [00:52:47] [Server thread/INFO]: [Lukitas024: Set own game mode to Survival Mode]
 [00:55:26] [Server thread/INFO]: [Lukitas024: Teleported Lukitas024 to cami14]
+[01:02:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-526, y=86, z=-731} jd{x=-526, y=84, z=-731}
