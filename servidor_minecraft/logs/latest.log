@@ -4236,3 +4236,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 22:00:14.548] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
 [27Feb2025 22:00:16.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
 [27Feb2025 22:00:16.748] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:07:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [World of illusion]
+[27Feb2025 22:08:14.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 22:08:14.340] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:08:18.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was doomed to fall by Vindicator
+[27Feb2025 22:08:18.445] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:09:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Chain Death]
+[27Feb2025 22:09:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:09:05.440] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:09:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 22:09:07.593] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:09:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:09:49.198] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:10:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:10:33.685] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:11:30.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:11:30.546] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:12:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Cover Me with Diamonds]
+[27Feb2025 22:13:31.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Your First Receptacle]
+[27Feb2025 22:14:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 22:14:09.038] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:14:10.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:14:10.292] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:15:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Diamonds!]
+[27Feb2025 22:15:24.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Cover Me with Diamonds]
