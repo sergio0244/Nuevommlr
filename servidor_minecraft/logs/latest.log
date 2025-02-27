@@ -41,3 +41,5 @@
 [00:52:47] [Server thread/INFO]: [Lukitas024: Set own game mode to Survival Mode]
 [00:55:26] [Server thread/INFO]: [Lukitas024: Teleported Lukitas024 to cami14]
 [01:02:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-526, y=86, z=-731} jd{x=-526, y=84, z=-731}
+[01:16:11] [Server thread/INFO]: Named entity cgq['SOFIA'/72, l='ServerLevel[world]', x=-488.00, y=63.00, z=-823.00] died: SOFIA died from dehydration
+[01:17:30] [Server thread/INFO]: [Lukitas024: Set own game mode to Creative Mode]
