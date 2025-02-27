@@ -2374,13 +2374,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_smithing_trim_template": "2025-02-27 00:54:42 +0000"
+      "has_blaze_powder": "2025-02-27 00:10:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-27 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-27 00:10:56 +0000"
     },
@@ -2392,15 +2398,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-02-27 00:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-27 00:10:56 +0000"
+      "has_ender_eye": "2025-02-27 00:11:04 +0000"
     },
     "done": true
   },
@@ -2410,9 +2410,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_blaze_powder": "2025-02-27 00:10:56 +0000"
+      "has_smithing_trim_template": "2025-02-27 00:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-27 00:54:42 +0000"
     },
     "done": true
   },
@@ -2425,12 +2431,6 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-27 01:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-02-27 00:11:04 +0000"
     },
     "done": true
   },
