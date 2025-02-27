@@ -7,17 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-02-26 01:38:49 +0000",
       "minecraft:savanna_plateau": "2025-02-26 03:08:12 +0000",
       "minecraft:dark_forest": "2025-02-26 01:34:49 +0000",
       "minecraft:forest": "2025-02-26 02:27:43 +0000",
-      "minecraft:windswept_forest": "2025-02-26 01:42:29 +0000",
-      "minecraft:cherry_grove": "2025-02-26 03:07:28 +0000",
       "minecraft:river": "2025-02-26 01:41:32 +0000",
-      "minecraft:swamp": "2025-02-26 02:11:52 +0000",
-      "minecraft:birch_forest": "2025-02-26 03:00:49 +0000",
       "minecraft:stony_shore": "2025-02-26 03:03:42 +0000",
       "minecraft:lush_caves": "2025-02-26 01:46:09 +0000",
+      "minecraft:dripstone_caves": "2025-02-27 02:03:30 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-26 01:38:49 +0000",
+      "minecraft:windswept_forest": "2025-02-26 01:42:29 +0000",
+      "minecraft:cherry_grove": "2025-02-26 03:07:28 +0000",
+      "minecraft:swamp": "2025-02-26 02:11:52 +0000",
+      "minecraft:birch_forest": "2025-02-26 03:00:49 +0000",
       "minecraft:plains": "2025-02-26 03:02:46 +0000"
     },
     "done": false
@@ -2257,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-27 02:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 01:49:20 +0000"
@@ -2302,6 +2309,24 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-27 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-27 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-27 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-27 02:04:07 +0000"
     },
     "done": true
   },
@@ -2359,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-27 02:03:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-02-27 00:19:02 +0000"
@@ -2368,6 +2399,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-02-27 00:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-27 02:03:49 +0000"
     },
     "done": true
   },
@@ -2419,9 +2456,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-27 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-27 02:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-27 02:03:49 +0000"
     },
     "done": true
   },
