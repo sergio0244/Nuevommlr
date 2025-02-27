@@ -208,6 +208,7 @@
       "minecraft:vindicator": "2025-02-27 20:19:13 +0000",
       "minecraft:spider": "2025-02-27 20:57:50 +0000",
       "minecraft:evoker": "2025-02-27 20:23:18 +0000",
+      "minecraft:husk": "2025-02-27 22:53:48 +0000",
       "minecraft:vex": "2025-02-27 20:22:25 +0000",
       "minecraft:zombie": "2025-02-27 21:28:28 +0000"
     },
@@ -305,7 +306,9 @@
       "baked_potato": "2025-02-27 21:38:19 +0000",
       "bread": "2025-02-27 21:59:32 +0000",
       "glow_berries": "2025-02-27 21:29:47 +0000",
-      "cooked_salmon": "2025-02-27 21:54:49 +0000"
+      "melon_slice": "2025-02-27 22:47:04 +0000",
+      "cooked_salmon": "2025-02-27 21:54:49 +0000",
+      "carrot": "2025-02-27 22:55:16 +0000"
     },
     "done": false
   },
@@ -342,6 +345,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-02-27 22:21:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-02-27 22:51:28 +0000"
     },
     "done": true
   },

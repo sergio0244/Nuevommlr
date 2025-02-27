@@ -4279,3 +4279,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 22:41:10.694] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
 [27Feb2025 22:45:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
 [27Feb2025 22:45:13.200] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:48:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has completed the challenge [Your dad after a night out with his co-workers]
+[27Feb2025 22:50:34.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49662, l='ServerLevel[world]', x=142.85, y=31.02, z=-123.33] died, message: 'Villager drowned'
+[27Feb2025 22:53:52.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Husk
+[27Feb2025 22:53:52.135] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:55:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Husk
+[27Feb2025 22:55:42.044] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:55:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was killed by Area Effect Cloud using magic
+[27Feb2025 22:55:51.039] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
