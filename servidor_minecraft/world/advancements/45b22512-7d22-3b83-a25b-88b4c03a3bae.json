@@ -214,8 +214,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-27 21:57:03 +0000",
       "minecraft:skeleton": "2025-02-27 21:18:33 +0000",
       "minecraft:vindicator": "2025-02-27 20:19:01 +0000",
+      "minecraft:evoker": "2025-02-27 21:59:54 +0000",
       "minecraft:vex": "2025-02-27 20:19:51 +0000",
       "minecraft:zombie": "2025-02-27 21:06:35 +0000"
     },
@@ -290,7 +292,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-27 21:05:03 +0000",
-      "sweet_berries": "2025-02-27 21:40:41 +0000"
+      "sweet_berries": "2025-02-27 21:40:41 +0000",
+      "cooked_salmon": "2025-02-27 21:54:22 +0000"
     },
     "done": false
   },
@@ -333,6 +336,30 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-02-27 21:42:03 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-27 21:59:54 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-02-27 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 21:57:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-27 21:51:58 +0000"
     },
     "done": true
   },

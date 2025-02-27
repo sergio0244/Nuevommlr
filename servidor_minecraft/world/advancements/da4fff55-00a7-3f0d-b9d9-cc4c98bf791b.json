@@ -202,6 +202,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-27 21:58:07 +0000",
       "minecraft:vindicator": "2025-02-27 20:19:13 +0000",
       "minecraft:spider": "2025-02-27 20:57:50 +0000",
       "minecraft:evoker": "2025-02-27 20:23:18 +0000",
@@ -299,7 +300,9 @@
       "cooked_porkchop": "2025-02-27 21:11:35 +0000",
       "sweet_berries": "2025-02-27 21:50:51 +0000",
       "baked_potato": "2025-02-27 21:38:19 +0000",
-      "glow_berries": "2025-02-27 21:29:47 +0000"
+      "bread": "2025-02-27 21:59:32 +0000",
+      "glow_berries": "2025-02-27 21:29:47 +0000",
+      "cooked_salmon": "2025-02-27 21:54:49 +0000"
     },
     "done": false
   },
@@ -324,6 +327,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-27 21:47:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-02-27 21:57:19 +0000"
     },
     "done": true
   },
