@@ -73,3 +73,20 @@
 [02:13:45] [Server thread/INFO]: [Lukitas024: Set own game mode to Creative Mode]
 [02:13:55] [Server thread/INFO]: cami14 was doomed to fall by Ender Dragon
 [02:14:05] [Server thread/INFO]: [Lukitas024: Teleported cami14 to Lukitas024]
+[02:18:46] [Server thread/INFO]: [Lukitas024: Set own game mode to Survival Mode]
+[02:19:09] [Server thread/INFO]: Lukitas024 has made the advancement [Free the End]
+[02:21:38] [Server thread/INFO]: Lukitas024 lost connection: Disconnected
+[02:21:38] [Server thread/INFO]: Lukitas024 left the game
+[02:21:47] [Server thread/INFO]: cami14 lost connection: Disconnected
+[02:21:47] [Server thread/INFO]: cami14 left the game
+[02:21:50] [Server thread/INFO]: Stopping the server
+[02:21:50] [Server thread/INFO]: Stopping server
+[02:21:50] [Server thread/INFO]: Saving players
+[02:21:50] [Server thread/INFO]: Saving worlds
+[02:21:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:21:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:21:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
