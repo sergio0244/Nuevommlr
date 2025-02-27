@@ -4090,3 +4090,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 20:11:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
 [27Feb2025 20:11:06.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has completed the challenge [The Undead]
 [27Feb2025 20:11:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ice and Fire]
+[27Feb2025 20:14:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Stone Age]
+[27Feb2025 20:15:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Stone Age]
+[27Feb2025 20:15:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Getting an Upgrade]
+[27Feb2025 20:16:32.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Getting an Upgrade]
+[27Feb2025 20:17:41.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 20:17:41.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Your First Grave]
+[27Feb2025 20:17:41.848] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:18:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has reached the goal [Here They Come]
+[27Feb2025 20:18:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 20:18:03.047] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:18:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vex
+[27Feb2025 20:18:54.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Your First Grave]
+[27Feb2025 20:18:54.846] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 20:19:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Knowledge of Death]
+[27Feb2025 20:19:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ambush]
+[27Feb2025 20:19:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Monster Hunter]
+[27Feb2025 20:19:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 20:19:08.255] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:19:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Knowledge of Death]
+[27Feb2025 20:19:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Ambush]
+[27Feb2025 20:19:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Monster Hunter]
+[27Feb2025 20:20:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Knowledge raises the soul]
+[27Feb2025 20:20:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Knowledge raises the soul]
+[27Feb2025 20:21:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has reached the goal [Die Classy]
+[27Feb2025 20:22:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vex
+[27Feb2025 20:22:13.393] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:22:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was shot by Provoker
+[27Feb2025 20:22:59.440] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 20:23:00.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has reached the goal [Chain Death]
+[27Feb2025 20:23:00.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vex
+[27Feb2025 20:23:00.489] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:23:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Here They Come]
+[27Feb2025 20:23:33.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [It Belongs in a Museum]
+[27Feb2025 20:26:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Ninset6
+[27Feb2025 20:26:38.523] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
