@@ -1,120 +1,24 @@
-[01:31:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:31:24] [ServerMain/INFO]: No existing world data, creating new world
-[01:31:25] [ServerMain/INFO]: Loaded 1290 recipes
-[01:31:25] [ServerMain/INFO]: Loaded 1399 advancements
-[01:31:26] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:31:26] [Server thread/INFO]: Loading properties
-[01:31:26] [Server thread/INFO]: Default game type: SURVIVAL
-[01:31:26] [Server thread/INFO]: Generating keypair
-[01:31:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:31:26] [Server thread/INFO]: Using epoll channel type
-[01:31:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:31:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:31:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:31:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:31:26] [Server thread/INFO]: Preparing level "world"
-[01:31:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:31:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:31:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[01:31:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:31:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:31:34] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[01:31:35] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[01:31:35] [Worker-Main-3/INFO]: Preparing spawn area: 26%
-[01:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:31:37] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:31:37] [Server thread/INFO]: Time elapsed: 4913 ms
-[01:31:37] [Server thread/INFO]: Done (11.252s)! For help, type "help"
-[01:34:39] [Server thread/INFO]: Lukitas024[/10.244.154.143:53472] logged in with entity id 6 at (-42.5, 81.0, -102.5)
-[01:34:39] [Server thread/INFO]: Lukitas024 joined the game
-[01:34:49] [Server thread/INFO]: cami14[/10.244.195.18:49995] logged in with entity id 189 at (-45.5, 81.0, -101.5)
-[01:34:49] [Server thread/INFO]: cami14 joined the game
-[01:37:13] [Server thread/INFO]: Lukitas024 has made the advancement [Stone Age]
-[01:37:14] [Server thread/INFO]: cami14 has made the advancement [Stone Age]
-[01:37:27] [Server thread/INFO]: Lukitas024 burned to death
-[01:38:17] [Server thread/INFO]: cami14 has made the advancement [Getting an Upgrade]
-[01:38:24] [Server thread/INFO]: Lukitas024 has made the advancement [Getting an Upgrade]
-[01:44:29] [Server thread/INFO]: Lukitas024 has made the advancement [Monster Hunter]
-[01:48:05] [Server thread/INFO]: cami14 lost connection: Timed out
-[01:48:05] [Server thread/INFO]: cami14 left the game
-[01:48:05] [Server thread/WARN]: handleDisconnection() called twice
-[01:48:18] [Server thread/INFO]: cami14[/10.244.195.18:50657] logged in with entity id 4509 at (30.53692426448037, 38.231523797587016, -119.69999998807907)
-[01:48:18] [Server thread/INFO]: cami14 joined the game
-[01:55:38] [Server thread/INFO]: cami14 has made the advancement [Acquire Hardware]
-[01:55:46] [Server thread/INFO]: cami14 has made the advancement [Suit Up]
-[01:56:15] [Server thread/INFO]: Lukitas024 has made the advancement [Suit Up]
-[01:58:36] [Server thread/INFO]: cami14 has made the advancement [Isn't It Iron Pick]
-[01:59:04] [Server thread/INFO]: Lukitas024 has made the advancement [Isn't It Iron Pick]
-[02:00:14] [Server thread/INFO]: Lukitas024 has made the advancement [Not Today, Thank You]
-[02:00:34] [Server thread/INFO]: cami14 has made the advancement [Monster Hunter]
-[02:02:10] [Server thread/INFO]: cami14 has made the advancement [The Cutest Predator]
-[02:03:31] [Server thread/INFO]: Lukitas024 has made the advancement [Diamonds!]
-[02:06:05] [Server thread/INFO]: cami14 has made the advancement [Diamonds!]
-[02:17:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=300, y=-16, z=-195} jd{x=299, y=-13, z=-196}
-[02:17:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=341, y=-14, z=-192} jd{x=342, y=-12, z=-191}
-[02:17:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=341, y=-14, z=-191} jd{x=342, y=-12, z=-191}
-[02:17:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=344, y=-14, z=-184} jd{x=344, y=-12, z=-184}
-[02:28:43] [Server thread/INFO]: cami14 has made the advancement [Sweet Dreams]
-[02:28:46] [Server thread/INFO]: Lukitas024 has made the advancement [Sweet Dreams]
-[02:31:01] [Server thread/INFO]: Lukitas024 has made the advancement [Cover Me with Diamonds]
-[02:40:46] [Server thread/INFO]: Lukitas024 lost connection: Disconnected
-[02:40:46] [Server thread/INFO]: Lukitas024 left the game
-[02:45:19] [Server thread/INFO]: Lukitas024[/10.244.154.143:59301] logged in with entity id 17842 at (799.8284495948234, 81.0, -159.7901671816097)
-[02:45:19] [Server thread/INFO]: Lukitas024 joined the game
-[02:50:46] [Server thread/INFO]: cami14 lost connection: Disconnected
-[02:50:46] [Server thread/INFO]: cami14 left the game
-[02:50:55] [Server thread/INFO]: cami14[/10.244.195.18:53713] logged in with entity id 20047 at (281.6875, 62.523264312744146, -132.104979187832)
-[02:50:55] [Server thread/INFO]: cami14 joined the game
-[02:51:55] [Server thread/INFO]: cami14 lost connection: Disconnected
-[02:51:55] [Server thread/INFO]: cami14 left the game
-[02:52:05] [Server thread/INFO]: cami14[/10.244.195.18:53769] logged in with entity id 20484 at (200.3985239348917, 80.0, -147.09260279932903)
-[02:52:05] [Server thread/INFO]: cami14 joined the game
-[02:54:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:54:43] [Server thread/INFO]: semilla<--[HERE]
-[02:54:47] [Server thread/INFO]: Seed: [2159037299086130584]
-[03:06:44] [Server thread/INFO]: Lukitas024 has made the advancement [Acquire Hardware]
-[03:08:27] [Server thread/INFO]: Lukitas024 has made the advancement [Ice Bucket Challenge]
-[03:31:51] [Server thread/INFO]: cami14 has made the advancement [Best Friends Forever]
-[03:36:19] [Server thread/INFO]: Villager cmk['Fletcher'/23773, l='ServerLevel[world]', x=-454.30, y=76.00, z=-709.30] died, message: 'Fletcher was slain by Zombie'
-[03:36:54] [Server thread/INFO]: cami14 has made the advancement [Cover Me with Diamonds]
-[03:40:51] [Server thread/INFO]: Lukitas024 has made the advancement [We Need to Go Deeper]
-[03:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
-[03:40:53] [Server thread/INFO]: cami14 has made the advancement [We Need to Go Deeper]
-[03:41:58] [Server thread/INFO]: cami14 has made the advancement [Ice Bucket Challenge]
-[03:42:50] [Server thread/INFO]: cami14 has made the advancement [Who is Cutting Onions?]
-[03:51:49] [Server thread/INFO]: Lukitas024 has made the advancement [A Terrible Fortress]
-[03:51:52] [Server thread/INFO]: cami14 has made the advancement [A Terrible Fortress]
-[03:53:57] [Server thread/INFO]: Lukitas024 has made the advancement [Into Fire]
-[03:54:18] [Server thread/INFO]: cami14 has made the advancement [Into Fire]
-[03:57:50] [Server thread/INFO]: cami14 withered away while fighting Wither Skeleton
-[04:04:13] [Server thread/INFO]: Teleported cami14 to Lukitas024
-[04:06:02] [Server thread/INFO]: cami14 was doomed to fall by Lukitas024
-[04:06:27] [Server thread/INFO]: cami14 lost connection: Timed out
-[04:06:27] [Server thread/INFO]: cami14 left the game
-[04:06:40] [Server thread/INFO]: cami14[/10.244.195.18:57384] logged in with entity id 39108 at (-495.93536716753897, 73.0, -782.1459478654506)
-[04:06:40] [Server thread/INFO]: cami14 joined the game
-[04:12:07] [Server thread/INFO]: cami14 has made the advancement [The Parrots and the Bats]
-[04:24:08] [Server thread/INFO]: cami14 burned to death
-[04:28:28] [Server thread/INFO]: Teleported Lukitas024 to cami14
-[04:43:49] [Server thread/INFO]: Lukitas024 has made the advancement [Who is Cutting Onions?]
-[04:51:14] [Server thread/INFO]: cami14 lost connection: Timed out
-[04:51:14] [Server thread/INFO]: cami14 left the game
-[04:51:25] [Server thread/INFO]: cami14[/10.244.195.18:59536] logged in with entity id 50146 at (-471.2685088385751, 63.0, -801.9105521739122)
-[04:51:25] [Server thread/INFO]: cami14 joined the game
-[04:52:45] [Server thread/INFO]: Lukitas024 has made the advancement [Take Aim]
-[04:52:52] [Server thread/INFO]: Lukitas024 lost connection: Disconnected
-[04:52:52] [Server thread/INFO]: Lukitas024 left the game
-[04:52:56] [Server thread/INFO]: cami14 lost connection: Disconnected
-[04:52:56] [Server thread/INFO]: cami14 left the game
-[04:53:27] [Server thread/INFO]: Stopping the server
-[04:53:27] [Server thread/INFO]: Stopping server
-[04:53:27] [Server thread/INFO]: Saving players
-[04:53:27] [Server thread/INFO]: Saving worlds
-[04:53:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:53:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:53:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:07:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:07:14] [ServerMain/INFO]: Loaded 1290 recipes
+[00:07:14] [ServerMain/INFO]: Loaded 1399 advancements
+[00:07:15] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:07:15] [Server thread/INFO]: Loading properties
+[00:07:15] [Server thread/INFO]: Default game type: SURVIVAL
+[00:07:15] [Server thread/INFO]: Generating keypair
+[00:07:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:07:15] [Server thread/INFO]: Using epoll channel type
+[00:07:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:07:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:07:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:07:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:07:15] [Server thread/INFO]: Preparing level "world"
+[00:07:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:07:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:07:19] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[00:07:19] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[00:07:19] [Server thread/INFO]: Time elapsed: 1176 ms
+[00:07:19] [Server thread/INFO]: Done (4.093s)! For help, type "help"
+[00:07:47] [Server thread/INFO]: cami14[/10.244.195.18:49750] logged in with entity id 4 at (-495.6614887813918, 73.5625, -779.5513930117961)
+[00:07:47] [Server thread/INFO]: cami14 joined the game
+[00:08:47] [Server thread/INFO]: Lukitas024[/10.244.154.143:62923] logged in with entity id 460 at (-494.30000001192093, 74.875, -777.3000000119209)
+[00:08:47] [Server thread/INFO]: Lukitas024 joined the game
