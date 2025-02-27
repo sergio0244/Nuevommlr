@@ -4173,3 +4173,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 20:53:03.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=315, y=72, z=-171} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
 [27Feb2025 20:53:03.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=315, y=72, z=-171}
 [27Feb2025 20:53:47.416] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13024, l='ServerLevel[world]', x=207.50, y=84.00, z=-277.50]
+[27Feb2025 20:55:32.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 drowned
+[27Feb2025 20:55:32.243] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 20:58:02.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 tried to swim in lava to escape Lukitas024
+[27Feb2025 20:58:02.895] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 20:58:13.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Who You Gonna Call?]
+[27Feb2025 20:58:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Decrepit Skeleton
+[27Feb2025 20:58:20.002] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 20:59:24.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Suit Up]
+[27Feb2025 21:01:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Acquire Hardware]
+[27Feb2025 21:04:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Isn't It Iron Pick]
+[27Feb2025 21:04:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Vampire Slayer]
