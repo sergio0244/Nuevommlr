@@ -4295,3 +4295,78 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 23:01:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Corpse Maggot
 [27Feb2025 23:01:02.939] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
 [27Feb2025 23:01:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ice Bucket Challenge]
+[27Feb2025 23:06:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was shot by Pillager
+[27Feb2025 23:06:45.285] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:06:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Voluntary Exile]
+[27Feb2025 23:06:53.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 was kicked for floating too long!
+[27Feb2025 23:06:53.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Flying is not enabled on this server
+[27Feb2025 23:06:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 23:07:15.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:63225] logged in with entity id 56401 at (96.07841316091012, 87.27610442970685, 151.3381186519981)
+[27Feb2025 23:07:15.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[27Feb2025 23:07:23.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 was kicked for floating too long!
+[27Feb2025 23:07:23.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Flying is not enabled on this server
+[27Feb2025 23:07:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 23:07:40.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:63250] logged in with entity id 56679 at (96.07841316091012, 72.02787761672286, 151.3381186519981)
+[27Feb2025 23:07:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[27Feb2025 23:12:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Dread Scuttler
+[27Feb2025 23:12:09.783] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:12:44.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [The Song of the Dragons]
+[27Feb2025 23:13:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Dread Ghoul
+[27Feb2025 23:13:44.925] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:13:59.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 was kicked for floating too long!
+[27Feb2025 23:13:59.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Flying is not enabled on this server
+[27Feb2025 23:13:59.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 23:13:59.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Dread Ghoul
+[27Feb2025 23:13:59.794] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 23:14:13.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:63642] logged in with entity id 58584 at (98.20289936809633, 80.28549238931866, 109.45604547119937)
+[27Feb2025 23:14:13.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[27Feb2025 23:14:22.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 was kicked for floating too long!
+[27Feb2025 23:14:22.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Flying is not enabled on this server
+[27Feb2025 23:14:22.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 23:14:38.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:63669] logged in with entity id 58818 at (92.4585541598978, 65.03726557633468, 95.5954870298442)
+[27Feb2025 23:14:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[27Feb2025 23:16:18.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Dread Ghoul
+[27Feb2025 23:16:18.381] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:18:20.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 lost connection: Disconnected
+[27Feb2025 23:18:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 left the game
+[27Feb2025 23:18:23.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Disconnected
+[27Feb2025 23:18:23.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[27Feb2025 23:18:39.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Feb2025 23:18:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2025 23:18:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2025 23:18:39.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2025 23:18:39.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Feb2025 23:18:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[27Feb2025 23:18:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[27Feb2025 23:18:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27Feb2025 23:18:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[27Feb2025 23:18:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[27Feb2025 23:18:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[27Feb2025 23:18:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[27Feb2025 23:18:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[27Feb2025 23:18:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[27Feb2025 23:18:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Feb2025 23:18:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[27Feb2025 23:18:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Feb2025 23:18:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[27Feb2025 23:18:40.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[27Feb2025 23:18:40.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[27Feb2025 23:18:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[27Feb2025 23:18:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[27Feb2025 23:18:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
