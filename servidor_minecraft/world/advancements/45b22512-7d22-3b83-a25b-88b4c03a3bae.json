@@ -106,7 +106,8 @@
       "minecraft:swamp": "2025-02-27 20:34:17 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:38:39 +0000",
       "minecraft:lush_caves": "2025-02-27 21:06:00 +0000",
-      "minecraft:windswept_forest": "2025-02-27 20:34:44 +0000"
+      "minecraft:windswept_forest": "2025-02-27 20:34:44 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-27 22:29:02 +0000"
     },
     "done": false
   },
@@ -292,7 +293,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-27 21:05:03 +0000",
+      "cooked_mutton": "2025-02-27 22:30:59 +0000",
       "sweet_berries": "2025-02-27 21:40:41 +0000",
+      "baked_potato": "2025-02-27 22:40:06 +0000",
       "bread": "2025-02-27 22:10:31 +0000",
       "cooked_salmon": "2025-02-27 21:54:22 +0000"
     },
@@ -340,15 +343,46 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-27 22:29:32 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 22:40:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-02-27 22:26:46 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-02-27 21:59:54 +0000"
+      "killed_evoker": "2025-02-27 21:59:54 +0000",
+      "killed_illusioner": "2025-02-27 22:40:22 +0000"
     },
     "done": false
   },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-02-27 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-27 22:15:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-27 22:21:27 +0000"
     },
     "done": true
   },

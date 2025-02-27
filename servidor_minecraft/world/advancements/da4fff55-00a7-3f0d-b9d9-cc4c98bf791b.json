@@ -136,7 +136,8 @@
       "minecraft:swamp": "2025-02-27 20:33:52 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:36:51 +0000",
       "minecraft:lush_caves": "2025-02-27 21:22:24 +0000",
-      "minecraft:windswept_forest": "2025-02-27 20:34:22 +0000"
+      "minecraft:windswept_forest": "2025-02-27 20:34:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-27 22:28:00 +0000"
     },
     "done": false
   },
@@ -203,6 +204,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-27 21:58:07 +0000",
+      "minecraft:skeleton": "2025-02-27 22:42:13 +0000",
       "minecraft:vindicator": "2025-02-27 20:19:13 +0000",
       "minecraft:spider": "2025-02-27 20:57:50 +0000",
       "minecraft:evoker": "2025-02-27 20:23:18 +0000",
@@ -337,11 +339,35 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-27 22:21:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-27 22:25:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-02-27 21:57:19 +0000"
     },
     "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-27 22:12:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-27 22:26:41 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
@@ -358,6 +384,30 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-02-27 21:44:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-02-27 22:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-27 22:15:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-27 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 22:21:58 +0000"
     },
     "done": true
   },

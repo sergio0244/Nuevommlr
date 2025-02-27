@@ -4260,3 +4260,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 22:14:10.292] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
 [27Feb2025 22:15:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Diamonds!]
 [27Feb2025 22:15:24.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Cover Me with Diamonds]
+[27Feb2025 22:16:45.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[27Feb2025 22:16:45.240] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 22:21:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Who You Gonna Call?]
+[27Feb2025 22:21:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [A Strange Grave Dust]
+[27Feb2025 22:21:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Ashes 'n Bones]
+[27Feb2025 22:22:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 fell from a high place
+[27Feb2025 22:22:15.855] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:25:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Pic-A-Nic Basket?]
+[27Feb2025 22:26:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Cobweb Entanglement]
+[27Feb2025 22:26:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Book of Monsters]
+[27Feb2025 22:29:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [This Must be a Sign!]
+[27Feb2025 22:30:40.631] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39708, l='ServerLevel[world]', x=262.73, y=67.00, z=32.35] died, message: 'Farmer was slain by Vindicator'
+[27Feb2025 22:38:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:38:58.192] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:40:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [World of illusion]
+[27Feb2025 22:41:10.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vex
+[27Feb2025 22:41:10.694] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:45:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Vindicator
+[27Feb2025 22:45:13.200] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
