@@ -14,6 +14,7 @@
       "minecraft:river": "2025-02-26 01:41:30 +0000",
       "minecraft:stony_shore": "2025-02-26 03:03:23 +0000",
       "minecraft:lush_caves": "2025-02-26 01:46:24 +0000",
+      "minecraft:dripstone_caves": "2025-02-27 00:24:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-26 01:37:51 +0000",
       "minecraft:windswept_forest": "2025-02-26 01:42:19 +0000",
       "minecraft:ocean": "2025-02-27 00:18:31 +0000",
@@ -484,6 +485,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-26 03:53:57 +0000",
+      "minecraft:cave_spider": "2025-02-27 00:33:15 +0000",
       "minecraft:skeleton": "2025-02-26 01:49:06 +0000",
       "minecraft:piglin": "2025-02-26 03:50:26 +0000",
       "minecraft:magma_cube": "2025-02-26 03:52:16 +0000",
