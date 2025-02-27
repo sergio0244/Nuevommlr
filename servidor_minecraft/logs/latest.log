@@ -4184,3 +4184,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 21:01:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Acquire Hardware]
 [27Feb2025 21:04:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Isn't It Iron Pick]
 [27Feb2025 21:04:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Vampire Slayer]
+[27Feb2025 21:05:26.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [A Strange Grave Dust]
+[27Feb2025 21:07:46.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 moved too quickly! 8.043239340893194,0.16610926093821377,6.127403092338227
+[27Feb2025 21:11:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Suit Up]
+[27Feb2025 21:11:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Isn't It Iron Pick]
+[27Feb2025 21:17:31.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Chest Slayer]
+[27Feb2025 21:17:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Amateur Archaeologist]
+[27Feb2025 21:18:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Not Today, Thank You]
+[27Feb2025 21:19:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Decrepit Skeleton
+[27Feb2025 21:19:02.846] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 21:19:04.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was shot by Skeleton
+[27Feb2025 21:19:04.541] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 21:21:07.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Chest Slayer]
+[27Feb2025 21:21:08.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Amateur Archaeologist]
+[27Feb2025 21:21:28.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=264, y=22, z=-132} BlockPos{x=263, y=24, z=-133}
+[27Feb2025 21:24:45.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 fell from a high place
+[27Feb2025 21:24:45.645] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 21:25:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has completed the challenge [Well, that was disgusting]
+[27Feb2025 21:25:34.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Murmur
+[27Feb2025 21:25:34.226] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 21:25:41.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20820, l='ServerLevel[world]', x=142.85, y=31.02, z=-123.33] died, message: 'Villager drowned'
+[27Feb2025 21:27:19.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 was kicked for floating too long!
+[27Feb2025 21:27:19.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 lost connection: Disconnected
+[27Feb2025 21:27:19.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 left the game
+[27Feb2025 21:27:19.113] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Feb2025 21:27:40.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lukitas024[/10.244.154.143:54789] logged in with entity id 21712 at (199.5573172336531, -32.743768430922906, -137.18628001011018)
+[27Feb2025 21:27:40.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 joined the game
+[27Feb2025 21:27:52.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 was kicked for floating too long!
+[27Feb2025 21:27:52.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 lost connection: Flying is not enabled on this server
+[27Feb2025 21:27:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 left the game
+[27Feb2025 21:28:12.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lukitas024[/10.244.154.143:54836] logged in with entity id 21803 at (201.16538504777077, -47.64244108211305, -134.12792691082655)
+[27Feb2025 21:28:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 joined the game
+[27Feb2025 21:28:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ashes 'n Bones]
+[27Feb2025 21:34:25.115] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23241, l='ServerLevel[world]', x=219.50, y=77.00, z=-302.50]

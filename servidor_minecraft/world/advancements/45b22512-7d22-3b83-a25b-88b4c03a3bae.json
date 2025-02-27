@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-27 21:21:07 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-02-27 20:11:06 +0000"
@@ -26,6 +32,18 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-02-27 20:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-27 21:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-27 21:11:40 +0000"
     },
     "done": true
   },
@@ -56,6 +74,12 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-02-27 20:11:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-27 21:05:26 +0000"
     },
     "done": true
   },
@@ -145,14 +169,22 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-27 21:18:33 +0000",
       "minecraft:vindicator": "2025-02-27 20:19:01 +0000",
-      "minecraft:vex": "2025-02-27 20:19:51 +0000"
+      "minecraft:vex": "2025-02-27 20:19:51 +0000",
+      "minecraft:zombie": "2025-02-27 21:06:35 +0000"
     },
     "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-27 20:11:06 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-27 21:21:08 +0000"
     },
     "done": true
   },
@@ -184,6 +216,7 @@
       "minecraft:snowy_taiga": "2025-02-27 20:11:06 +0000",
       "minecraft:swamp": "2025-02-27 20:34:17 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:38:39 +0000",
+      "minecraft:lush_caves": "2025-02-27 21:06:00 +0000",
       "minecraft:windswept_forest": "2025-02-27 20:34:44 +0000"
     },
     "done": false
@@ -218,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-02-27 21:05:03 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-02-27 20:11:06 +0000"
@@ -248,6 +287,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 21:28:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-27 20:11:06 +0000"
@@ -263,6 +308,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-27 20:15:18 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-02-27 21:04:30 +0000"
     },
     "done": true
   },
