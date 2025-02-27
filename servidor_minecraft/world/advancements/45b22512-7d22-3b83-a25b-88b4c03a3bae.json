@@ -25,13 +25,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -43,7 +43,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -109,7 +109,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -121,19 +121,25 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-02-27 20:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-27 20:37:49 +0000"
     },
     "done": true
   },
@@ -154,6 +160,12 @@
       "log_spam_fixer": "2025-02-27 20:11:06 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-27 20:38:46 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -194,7 +206,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -202,13 +214,18 @@
     "criteria": {
       "minecraft:taiga": "2025-02-27 20:27:34 +0000",
       "minecraft:frozen_river": "2025-02-27 20:13:21 +0000",
-      "minecraft:snowy_taiga": "2025-02-27 20:11:06 +0000"
+      "minecraft:beach": "2025-02-27 20:40:27 +0000",
+      "minecraft:river": "2025-02-27 20:40:50 +0000",
+      "minecraft:snowy_taiga": "2025-02-27 20:11:06 +0000",
+      "minecraft:swamp": "2025-02-27 20:34:17 +0000",
+      "minecraft:cold_ocean": "2025-02-27 20:38:39 +0000",
+      "minecraft:windswept_forest": "2025-02-27 20:34:44 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -220,7 +237,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -254,9 +271,15 @@
     },
     "done": false
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-27 20:33:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
@@ -269,6 +292,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-02-27 20:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-27 20:40:38 +0000"
     },
     "done": true
   },
@@ -304,13 +333,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-27 20:31:01 +0000"
+      "log_spam_fixer": "2025-02-27 20:51:01 +0000"
     },
     "done": false
   },
