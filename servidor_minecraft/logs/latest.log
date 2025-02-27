@@ -4287,3 +4287,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 22:55:42.044] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
 [27Feb2025 22:55:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was killed by Area Effect Cloud using magic
 [27Feb2025 22:55:51.039] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 22:58:44.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Ice Bucket Challenge]
+[27Feb2025 23:00:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Husk
+[27Feb2025 23:00:03.192] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:00:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Husk
+[27Feb2025 23:00:49.741] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[27Feb2025 23:01:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Corpse Maggot
+[27Feb2025 23:01:02.939] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[27Feb2025 23:01:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ice Bucket Challenge]

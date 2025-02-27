@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-27 22:58:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-02-27 21:57:19 +0000"
