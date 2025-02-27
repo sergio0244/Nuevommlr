@@ -11,6 +11,7 @@
       "minecraft:beach": "2025-02-27 00:19:27 +0000",
       "minecraft:dark_forest": "2025-02-26 01:34:39 +0000",
       "minecraft:forest": "2025-02-26 02:27:34 +0000",
+      "minecraft:taiga": "2025-02-27 00:47:54 +0000",
       "minecraft:river": "2025-02-26 01:41:30 +0000",
       "minecraft:stony_shore": "2025-02-26 03:03:23 +0000",
       "minecraft:lush_caves": "2025-02-26 01:46:24 +0000",
@@ -21,6 +22,7 @@
       "minecraft:cherry_grove": "2025-02-26 03:07:16 +0000",
       "minecraft:swamp": "2025-02-26 02:11:42 +0000",
       "minecraft:birch_forest": "2025-02-26 03:00:55 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-27 00:47:44 +0000",
       "minecraft:savanna": "2025-02-26 03:11:01 +0000",
       "minecraft:plains": "2025-02-26 03:02:44 +0000"
     },
@@ -485,17 +487,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-26 03:53:57 +0000",
-      "minecraft:cave_spider": "2025-02-27 00:33:15 +0000",
       "minecraft:skeleton": "2025-02-26 01:49:06 +0000",
+      "minecraft:wither_skeleton": "2025-02-26 03:59:58 +0000",
+      "minecraft:hoglin": "2025-02-26 03:41:22 +0000",
+      "minecraft:cave_spider": "2025-02-27 00:33:15 +0000",
       "minecraft:piglin": "2025-02-26 03:50:26 +0000",
+      "minecraft:silverfish": "2025-02-27 00:52:10 +0000",
       "minecraft:magma_cube": "2025-02-26 03:52:16 +0000",
       "minecraft:spider": "2025-02-26 02:02:39 +0000",
-      "minecraft:wither_skeleton": "2025-02-26 03:59:58 +0000",
       "minecraft:zombie": "2025-02-26 01:52:27 +0000",
       "minecraft:creeper": "2025-02-26 01:44:29 +0000",
       "minecraft:zombie_villager": "2025-02-26 02:07:05 +0000",
-      "minecraft:slime": "2025-02-26 03:16:01 +0000",
-      "minecraft:hoglin": "2025-02-26 03:41:22 +0000"
+      "minecraft:slime": "2025-02-26 03:16:01 +0000"
     },
     "done": false
   },
@@ -2371,6 +2374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-27 00:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-27 00:10:56 +0000"
@@ -2383,9 +2392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-27 00:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-27 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-27 00:50:09 +0000"
     },
     "done": true
   },
