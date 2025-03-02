@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:jade_pressure_plate_embellishcraft_kitchen_counter_oven"
+  }
+}

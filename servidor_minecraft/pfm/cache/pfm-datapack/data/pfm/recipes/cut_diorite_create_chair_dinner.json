@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_diorite_create_chair_dinner",
+    "count": 4
+  }
+}

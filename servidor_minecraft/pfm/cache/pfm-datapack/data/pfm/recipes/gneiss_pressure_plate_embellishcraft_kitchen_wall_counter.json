@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_pressure_plate_embellishcraft_kitchen_wall_counter",
+    "count": 6
+  }
+}

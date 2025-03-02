@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

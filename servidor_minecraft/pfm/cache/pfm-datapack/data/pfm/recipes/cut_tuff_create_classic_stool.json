@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    },
+    {
+      "item": "create:polished_cut_tuff"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_tuff_create_classic_stool",
+    "count": 4
+  }
+}

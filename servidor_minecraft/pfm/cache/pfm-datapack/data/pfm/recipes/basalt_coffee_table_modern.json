@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:polished_basalt"
+    },
+    {
+      "item": "minecraft:polished_basalt"
+    },
+    {
+      "item": "minecraft:polished_basalt"
+    }
+  ],
+  "result": {
+    "item": "pfm:basalt_coffee_table_modern",
+    "count": 4
+  }
+}

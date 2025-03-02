@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:jade_embellishcraft_table_basic"
+    ]
+  },
+  "criteria": {
+    "jade_embellishcraft_table_basic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_jade"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:jade_embellishcraft_table_basic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "jade_embellishcraft_table_basic",
+      "has_the_recipe"
+    ]
+  ]
+}

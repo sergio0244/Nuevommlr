@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_pressure_plate_embellishcraft_coffee_table_classic",
+    "count": 4
+  }
+}

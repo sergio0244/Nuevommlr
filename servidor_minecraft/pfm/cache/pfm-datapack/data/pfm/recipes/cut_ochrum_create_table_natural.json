@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_ochrum"
+    },
+    {
+      "item": "create:cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    },
+    {
+      "item": "create:polished_cut_ochrum"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_ochrum_create_table_natural",
+    "count": 4
+  }
+}

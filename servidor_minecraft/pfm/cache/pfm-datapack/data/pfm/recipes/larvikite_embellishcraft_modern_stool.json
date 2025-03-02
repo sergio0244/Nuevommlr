@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_embellishcraft_modern_stool",
+    "count": 4
+  }
+}

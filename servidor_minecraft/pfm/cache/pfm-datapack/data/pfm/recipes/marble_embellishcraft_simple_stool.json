@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    }
+  ],
+  "result": {
+    "item": "pfm:marble_embellishcraft_simple_stool",
+    "count": 4
+  }
+}

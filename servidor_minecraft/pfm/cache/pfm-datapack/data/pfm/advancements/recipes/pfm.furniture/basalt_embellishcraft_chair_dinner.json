@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:basalt_embellishcraft_chair_dinner"
+    ]
+  },
+  "criteria": {
+    "basalt_embellishcraft_chair_dinner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_basalt"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basalt_embellishcraft_chair_dinner"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "basalt_embellishcraft_chair_dinner",
+      "has_the_recipe"
+    ]
+  ]
+}

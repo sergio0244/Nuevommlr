@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_jade_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:jade_pressure_plate_embellishcraft_table_dinner",
+    "count": 4
+  }
+}

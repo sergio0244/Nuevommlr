@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_embellishcraft_kitchen_counter_oven"
+  }
+}

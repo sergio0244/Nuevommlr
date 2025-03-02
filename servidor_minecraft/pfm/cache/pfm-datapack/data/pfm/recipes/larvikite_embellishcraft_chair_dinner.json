@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_embellishcraft_chair_dinner",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_embellishcraft_classic_stool",
+    "count": 4
+  }
+}

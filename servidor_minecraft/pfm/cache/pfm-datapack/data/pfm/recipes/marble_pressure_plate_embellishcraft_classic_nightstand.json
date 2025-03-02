@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_marble_pressure_plate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:marble_pressure_plate_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

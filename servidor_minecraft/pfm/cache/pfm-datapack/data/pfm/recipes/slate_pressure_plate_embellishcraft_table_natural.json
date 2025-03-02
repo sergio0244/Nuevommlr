@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:slate_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:slate_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_slate_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_slate_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_slate_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:slate_pressure_plate_embellishcraft_table_natural",
+    "count": 4
+  }
+}

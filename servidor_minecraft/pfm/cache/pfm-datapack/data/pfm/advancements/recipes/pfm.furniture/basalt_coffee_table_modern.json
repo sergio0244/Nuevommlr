@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:basalt_coffee_table_modern"
+    ]
+  },
+  "criteria": {
+    "basalt_coffee_table_modern": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:polished_basalt"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basalt_coffee_table_modern"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "basalt_coffee_table_modern",
+      "has_the_recipe"
+    ]
+  ]
+}

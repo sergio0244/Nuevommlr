@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    },
+    {
+      "item": "create:polished_cut_diorite"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_diorite_create_table_natural",
+    "count": 4
+  }
+}

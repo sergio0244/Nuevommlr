@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_embellishcraft_coffee_table_basic",
+    "count": 4
+  }
+}

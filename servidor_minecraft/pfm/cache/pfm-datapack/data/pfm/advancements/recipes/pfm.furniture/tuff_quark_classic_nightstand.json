@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:tuff_quark_classic_nightstand"
+    ]
+  },
+  "criteria": {
+    "tuff_quark_classic_nightstand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_tuff"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:tuff_quark_classic_nightstand"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tuff_quark_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ]
+}

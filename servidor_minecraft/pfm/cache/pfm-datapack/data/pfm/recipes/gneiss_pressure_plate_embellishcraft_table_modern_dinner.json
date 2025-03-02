@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_pressure_plate_embellishcraft_table_modern_dinner",
+    "count": 4
+  }
+}

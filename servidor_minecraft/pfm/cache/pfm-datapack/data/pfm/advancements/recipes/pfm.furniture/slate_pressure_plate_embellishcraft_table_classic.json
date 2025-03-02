@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:slate_pressure_plate_embellishcraft_table_classic"
+    ]
+  },
+  "criteria": {
+    "slate_pressure_plate_embellishcraft_table_classic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_slate_pressure_plate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:slate_pressure_plate_embellishcraft_table_classic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "slate_pressure_plate_embellishcraft_table_classic",
+      "has_the_recipe"
+    ]
+  ]
+}

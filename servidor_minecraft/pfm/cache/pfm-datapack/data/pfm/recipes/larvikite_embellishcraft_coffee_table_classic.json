@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_embellishcraft_coffee_table_classic",
+    "count": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:calcite_quark_chair"
+    ]
+  },
+  "criteria": {
+    "calcite_quark_chair": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_calcite"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:calcite_quark_chair"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "calcite_quark_chair",
+      "has_the_recipe"
+    ]
+  ]
+}

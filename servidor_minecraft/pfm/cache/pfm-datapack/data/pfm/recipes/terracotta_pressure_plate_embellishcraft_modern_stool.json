@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_pressure_plate_embellishcraft_modern_stool",
+    "count": 4
+  }
+}

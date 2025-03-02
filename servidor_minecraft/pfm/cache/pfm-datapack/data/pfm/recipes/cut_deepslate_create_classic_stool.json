@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    },
+    {
+      "item": "create:polished_cut_deepslate"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_deepslate_create_classic_stool",
+    "count": 4
+  }
+}

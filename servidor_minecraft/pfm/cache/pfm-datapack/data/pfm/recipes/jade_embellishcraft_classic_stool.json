@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    }
+  ],
+  "result": {
+    "item": "pfm:jade_embellishcraft_classic_stool",
+    "count": 4
+  }
+}

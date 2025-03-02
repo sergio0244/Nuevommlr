@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_embellishcraft_chair_classic",
+    "count": 4
+  }
+}

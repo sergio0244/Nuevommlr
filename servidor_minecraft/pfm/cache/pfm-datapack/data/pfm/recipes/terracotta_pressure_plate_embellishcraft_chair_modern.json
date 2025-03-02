@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_pressure_plate_embellishcraft_chair_modern",
+    "count": 4
+  }
+}

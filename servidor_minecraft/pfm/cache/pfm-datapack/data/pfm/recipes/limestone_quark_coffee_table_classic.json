@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    }
+  ],
+  "result": {
+    "item": "pfm:limestone_quark_coffee_table_classic",
+    "count": 4
+  }
+}

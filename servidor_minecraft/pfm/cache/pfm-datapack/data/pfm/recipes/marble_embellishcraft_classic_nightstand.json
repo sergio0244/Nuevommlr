@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:marble_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

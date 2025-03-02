@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:basalt_table_dinner"
+    ]
+  },
+  "criteria": {
+    "basalt_table_dinner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:polished_basalt"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basalt_table_dinner"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "basalt_table_dinner",
+      "has_the_recipe"
+    ]
+  ]
+}

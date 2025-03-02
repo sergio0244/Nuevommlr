@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    }
+  ],
+  "result": {
+    "item": "pfm:calcite_quark_classic_stool",
+    "count": 4
+  }
+}

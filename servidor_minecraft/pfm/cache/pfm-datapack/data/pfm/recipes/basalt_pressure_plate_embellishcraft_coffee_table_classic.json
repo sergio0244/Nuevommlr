@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:basalt_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:basalt_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_basalt_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_basalt_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_basalt_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:basalt_pressure_plate_embellishcraft_coffee_table_classic",
+    "count": 4
+  }
+}

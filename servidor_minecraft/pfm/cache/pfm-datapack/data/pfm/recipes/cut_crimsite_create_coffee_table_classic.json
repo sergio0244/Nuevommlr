@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    },
+    {
+      "item": "create:polished_cut_crimsite"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_crimsite_create_coffee_table_classic",
+    "count": 4
+  }
+}

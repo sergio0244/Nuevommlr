@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_red_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_red_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_red_sandstone"
+    }
+  ],
+  "result": {
+    "item": "pfm:red_sandstone_embellishcraft_table_dinner",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    },
+    {
+      "item": "create:polished_cut_scorchia"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_scorchia_create_coffee_table_basic",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_embellishcraft_modern_stool",
+    "count": 4
+  }
+}

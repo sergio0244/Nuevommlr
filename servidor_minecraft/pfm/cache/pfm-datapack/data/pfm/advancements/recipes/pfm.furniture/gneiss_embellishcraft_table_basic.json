@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:gneiss_embellishcraft_table_basic"
+    ]
+  },
+  "criteria": {
+    "gneiss_embellishcraft_table_basic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_gneiss"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:gneiss_embellishcraft_table_basic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gneiss_embellishcraft_table_basic",
+      "has_the_recipe"
+    ]
+  ]
+}

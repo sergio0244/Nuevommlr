@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:slate_embellishcraft_kitchen_wall_small_drawer",
+    "count": 3
+  }
+}

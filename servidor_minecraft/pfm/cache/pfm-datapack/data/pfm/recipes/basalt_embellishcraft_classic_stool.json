@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    }
+  ],
+  "result": {
+    "item": "pfm:basalt_embellishcraft_classic_stool",
+    "count": 4
+  }
+}

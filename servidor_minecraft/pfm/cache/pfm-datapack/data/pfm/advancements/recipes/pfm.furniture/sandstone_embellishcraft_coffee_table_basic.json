@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:sandstone_embellishcraft_coffee_table_basic"
+    ]
+  },
+  "criteria": {
+    "sandstone_embellishcraft_coffee_table_basic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_sandstone"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:sandstone_embellishcraft_coffee_table_basic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sandstone_embellishcraft_coffee_table_basic",
+      "has_the_recipe"
+    ]
+  ]
+}

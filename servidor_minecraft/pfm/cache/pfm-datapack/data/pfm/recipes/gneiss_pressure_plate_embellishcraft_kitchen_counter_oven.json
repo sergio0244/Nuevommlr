@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss_pressure_plate"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_pressure_plate_embellishcraft_kitchen_counter_oven"
+  }
+}

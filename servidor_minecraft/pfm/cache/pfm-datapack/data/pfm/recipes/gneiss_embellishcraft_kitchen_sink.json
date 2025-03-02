@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_embellishcraft_kitchen_sink"
+  }
+}

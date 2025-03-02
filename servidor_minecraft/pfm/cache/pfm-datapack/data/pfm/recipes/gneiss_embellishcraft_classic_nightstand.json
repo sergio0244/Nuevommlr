@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_embellishcraft_kitchen_wall_counter",
+    "count": 6
+  }
+}

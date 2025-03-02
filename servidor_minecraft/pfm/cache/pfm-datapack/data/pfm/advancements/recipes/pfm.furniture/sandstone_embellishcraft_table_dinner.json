@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:sandstone_embellishcraft_table_dinner"
+    ]
+  },
+  "criteria": {
+    "sandstone_embellishcraft_table_dinner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_sandstone"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:sandstone_embellishcraft_table_dinner"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sandstone_embellishcraft_table_dinner",
+      "has_the_recipe"
+    ]
+  ]
+}

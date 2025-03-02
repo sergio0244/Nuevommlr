@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    },
+    {
+      "item": "embellishcraft:polished_marble"
+    }
+  ],
+  "result": {
+    "item": "pfm:marble_embellishcraft_table_natural",
+    "count": 4
+  }
+}

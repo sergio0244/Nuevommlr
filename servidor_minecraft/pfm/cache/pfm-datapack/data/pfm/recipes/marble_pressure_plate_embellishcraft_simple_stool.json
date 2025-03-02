@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_marble_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_marble_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:marble_pressure_plate_embellishcraft_simple_stool",
+    "count": 4
+  }
+}

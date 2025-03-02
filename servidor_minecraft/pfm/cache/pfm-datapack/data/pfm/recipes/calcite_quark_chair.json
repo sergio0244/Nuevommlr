@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    },
+    {
+      "item": "quark:polished_calcite"
+    }
+  ],
+  "result": {
+    "item": "pfm:calcite_quark_chair",
+    "count": 4
+  }
+}

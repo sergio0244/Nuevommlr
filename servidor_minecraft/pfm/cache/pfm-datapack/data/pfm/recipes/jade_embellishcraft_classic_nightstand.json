@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:jade_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

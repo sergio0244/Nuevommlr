@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:red_sandstone_embellishcraft_table_natural"
+    ]
+  },
+  "criteria": {
+    "red_sandstone_embellishcraft_table_natural": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_red_sandstone"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:red_sandstone_embellishcraft_table_natural"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "red_sandstone_embellishcraft_table_natural",
+      "has_the_recipe"
+    ]
+  ]
+}

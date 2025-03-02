@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:sandstone_embellishcraft_classic_nightstand"
+    ]
+  },
+  "criteria": {
+    "sandstone_embellishcraft_classic_nightstand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_sandstone"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:sandstone_embellishcraft_classic_nightstand"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sandstone_embellishcraft_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ]
+}

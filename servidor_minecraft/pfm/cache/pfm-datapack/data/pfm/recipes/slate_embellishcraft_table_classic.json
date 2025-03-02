@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    }
+  ],
+  "result": {
+    "item": "pfm:slate_embellishcraft_table_classic",
+    "count": 4
+  }
+}

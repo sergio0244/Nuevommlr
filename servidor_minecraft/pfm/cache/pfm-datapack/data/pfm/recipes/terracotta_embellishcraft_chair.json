@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_embellishcraft_chair",
+    "count": 4
+  }
+}

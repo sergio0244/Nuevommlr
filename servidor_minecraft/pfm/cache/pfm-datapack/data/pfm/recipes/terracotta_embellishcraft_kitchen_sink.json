@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_embellishcraft_kitchen_sink"
+  }
+}

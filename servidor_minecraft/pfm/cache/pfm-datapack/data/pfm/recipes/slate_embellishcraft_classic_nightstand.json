@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:slate"
+    },
+    {
+      "item": "embellishcraft:polished_slate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:slate_embellishcraft_classic_nightstand",
+    "count": 4
+  }
+}

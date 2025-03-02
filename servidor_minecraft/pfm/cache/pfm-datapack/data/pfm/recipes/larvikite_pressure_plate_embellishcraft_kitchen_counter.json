@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_pressure_plate_embellishcraft_kitchen_counter",
+    "count": 6
+  }
+}

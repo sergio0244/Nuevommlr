@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:jade_pressure_plate_embellishcraft_chair_classic"
+    ]
+  },
+  "criteria": {
+    "jade_pressure_plate_embellishcraft_chair_classic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_jade_pressure_plate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:jade_pressure_plate_embellishcraft_chair_classic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "jade_pressure_plate_embellishcraft_chair_classic",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "embellishcraft:larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_larvikite_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:larvikite_pressure_plate_embellishcraft_modern_stool",
+    "count": 4
+  }
+}

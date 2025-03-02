@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "embellishcraft:polished_sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_embellishcraft_kitchen_sink"
+  }
+}

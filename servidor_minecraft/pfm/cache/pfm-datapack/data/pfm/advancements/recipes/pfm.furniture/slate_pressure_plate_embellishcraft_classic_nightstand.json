@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:slate_pressure_plate_embellishcraft_classic_nightstand"
+    ]
+  },
+  "criteria": {
+    "slate_pressure_plate_embellishcraft_classic_nightstand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_slate_pressure_plate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:slate_pressure_plate_embellishcraft_classic_nightstand"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "slate_pressure_plate_embellishcraft_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ]
+}

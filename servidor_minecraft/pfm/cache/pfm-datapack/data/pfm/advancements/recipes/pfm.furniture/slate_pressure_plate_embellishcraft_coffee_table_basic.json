@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:slate_pressure_plate_embellishcraft_coffee_table_basic"
+    ]
+  },
+  "criteria": {
+    "slate_pressure_plate_embellishcraft_coffee_table_basic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_slate_pressure_plate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:slate_pressure_plate_embellishcraft_coffee_table_basic"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "slate_pressure_plate_embellishcraft_coffee_table_basic",
+      "has_the_recipe"
+    ]
+  ]
+}

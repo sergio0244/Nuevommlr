@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    },
+    {
+      "item": "embellishcraft:terracotta_pressure_plate"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_pressure_plate_embellishcraft_kitchen_counter",
+    "count": 6
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    },
+    {
+      "item": "embellishcraft:polished_gneiss"
+    }
+  ],
+  "result": {
+    "item": "pfm:gneiss_embellishcraft_table_basic",
+    "count": 4
+  }
+}

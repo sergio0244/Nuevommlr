@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:jasper_quark_classic_nightstand"
+    ]
+  },
+  "criteria": {
+    "jasper_quark_classic_nightstand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_jasper"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:jasper_quark_classic_nightstand"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "jasper_quark_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ]
+}

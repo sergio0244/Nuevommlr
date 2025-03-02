@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:basalt_embellishcraft_kitchen_wall_drawer"
+  }
+}

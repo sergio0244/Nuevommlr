@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    },
+    {
+      "item": "embellishcraft:polished_terracotta"
+    }
+  ],
+  "result": {
+    "item": "pfm:terracotta_embellishcraft_table_basic",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    },
+    {
+      "item": "embellishcraft:polished_basalt"
+    }
+  ],
+  "result": {
+    "item": "pfm:basalt_embellishcraft_chair",
+    "count": 4
+  }
+}

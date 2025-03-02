@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:terracotta_embellishcraft_table_natural"
+    ]
+  },
+  "criteria": {
+    "terracotta_embellishcraft_table_natural": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embellishcraft:polished_terracotta"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:terracotta_embellishcraft_table_natural"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "terracotta_embellishcraft_table_natural",
+      "has_the_recipe"
+    ]
+  ]
+}

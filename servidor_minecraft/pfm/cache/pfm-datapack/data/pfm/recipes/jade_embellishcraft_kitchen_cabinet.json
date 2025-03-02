@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:polished_jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "embellishcraft:jade"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:jade_embellishcraft_kitchen_cabinet"
+  }
+}

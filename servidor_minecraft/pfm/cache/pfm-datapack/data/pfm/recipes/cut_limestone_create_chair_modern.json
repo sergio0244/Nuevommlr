@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create:cut_limestone"
+    },
+    {
+      "item": "create:cut_limestone"
+    },
+    {
+      "item": "create:cut_limestone"
+    },
+    {
+      "item": "create:polished_cut_limestone"
+    },
+    {
+      "item": "create:polished_cut_limestone"
+    },
+    {
+      "item": "create:polished_cut_limestone"
+    }
+  ],
+  "result": {
+    "item": "pfm:cut_limestone_create_chair_modern",
+    "count": 4
+  }
+}
